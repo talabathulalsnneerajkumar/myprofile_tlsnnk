@@ -1,55 +1,55 @@
 
 <div align="center">
 
-# Hi, I'm Neeraj Kumar 👋
+# 👋 Hi, I'm TALABATHULA L S N NEERAJ KUMAR
 
-### Data Analyst | SQL • Python • Excel • Power BI
+### 📊 Aspiring Data Analyst | SQL • Python • Excel • Power BI
 
-*Turning data into actionable insights through analysis, visualization, and business intelligence.*
+*Turning raw data into meaningful insights to support smarter business decisions.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&pause=1500&color=3B82F6&center=true&vCenter=true&width=650&lines=Data+Analysis+%7C+Business+Intelligence;Building+Interactive+Power+BI+Dashboards;SQL+%7C+Python+%7C+Excel;Driven+by+Data%2C+Focused+on+Insights" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&pause=1500&color=3B82F6&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Business+Intelligence;Interactive+Dashboard+Development;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Transforming+Data+Into+Insights" alt="Typing animation" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an MCA graduate aspiring to build my career in **Data Analytics and Business Intelligence**. I enjoy exploring datasets, identifying patterns, analyzing business performance, and transforming raw data into meaningful insights.
+I'm an MCA graduate passionate about **Data Analytics, Business Intelligence, and Data-Driven Decision Making**. I enjoy working with data, uncovering patterns, analyzing business performance, and creating interactive dashboards that turn complex data into actionable insights.
 
-- 🎓 Master of Computer Applications (MCA), 2026
-- 📊 Focused on Data Analytics and Business Intelligence
-- 📈 Interested in data-driven decision-making and business performance analysis
-- 💻 Hands-on experience building analytical projects and interactive dashboards
-- 🌱 Continuously improving my skills in SQL, Python, Excel, and Power BI
-- 🎯 Seeking entry-level opportunities as a Data Analyst
+- 🎓 MCA Graduate — 2026
+- 📊 Aspiring Data Analyst
+- 📈 Interested in Business Intelligence & Data Visualization
+- 🛠️ Hands-on experience building analytical projects and dashboards
+- 🌱 Continuously learning SQL, Python, Excel, Power BI & Statistics
+- 🎯 Looking for entry-level opportunities in Data Analytics
 
 ---
 
-## Technical Skills
+## 🧰 Technical Skills
 
 <div align="center">
 
-### Data Analysis
+### 📊 Data Analysis
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 
-### Business Intelligence & Visualization
+### 📈 Business Intelligence & Visualization
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/DAX-Analytics-8C52FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Power_Query-Data_Transformation-217346?style=flat-square" />
 
-### Python Libraries
+### 🐍 Python Libraries
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square&logo=python&logoColor=white" />
 
-### Tools & Platforms
+### 💻 Tools & Platforms
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -59,107 +59,117 @@ I'm an MCA graduate aspiring to build my career in **Data Analytics and Business
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 01 | NextGen Retail — Store Sales Performance Analysis
+### 🛒 01. NextGen Retail — Store Sales Performance Analysis
 
+**Tools:** Power BI • DAX • Power Query • SQL  
 **Domain:** Retail Analytics & Business Intelligence
 
-Analyzed retail sales data to evaluate store performance, revenue growth, profitability, and target achievement across multiple stores and cities.
+Analyzed retail sales data to evaluate sales performance, profitability, growth, and target achievement across stores, cities, and product categories.
 
-**Dataset Overview**
-- Records: 60,120 sales records
-- Stores: 25
-- Cities: 20
-- Period: 2024–2025
+#### 📌 Dataset Overview
 
-**Key Analysis & KPIs**
-- Total Net Sales and Gross Profit
+- 📄 60,120 sales records
+- 🏬 25 stores
+- 🌍 20 cities
+- 📅 2024–2025
+
+#### 📊 Key KPIs
+
+- Total Net Sales
+- Gross Profit
 - Gross Margin %
 - Average Bill Value
 - Year-over-Year (YoY) Growth %
 - Target Achievement %
-- Regional and store-level performance
-- Product category, discount, and payment trends
 
-**Technical Implementation**
-- Developed DAX measures for business KPIs.
-- Implemented time-intelligence calculations for sales comparisons.
-- Analyzed regional performance and identified top-performing stores and categories.
-- Built interactive dashboards for business performance monitoring.
+#### 🔍 Analysis
 
-**Tech Stack**
+- Regional and store-level sales performance
+- Top-performing stores and product categories
+- Discount and payment trends
+- Sales growth and target comparisons
 
-`Power BI` `DAX` `Power Query` `SQL`
+#### ⚙️ Technical Work
+
+- Created business KPI measures using DAX.
+- Implemented time-intelligence calculations.
+- Analyzed store and regional performance.
+- Developed interactive dashboards for sales monitoring.
 
 ---
 
-### 02 | MediCare India — Hospital Operations & Revenue Analysis
+### 🏥 02. MediCare India — Hospital Operations & Revenue Analysis
 
+**Tools:** Power BI • DAX • Power Query  
 **Domain:** Healthcare Analytics & Operational Performance
 
-Analyzed hospital admission data to understand patient trends, revenue performance, hospital operations, and healthcare service metrics.
+Analyzed hospital admission data to understand patient trends, hospital revenue, operational performance, and healthcare service metrics.
 
-**Dataset Overview**
-- Records: 22,000 hospital admissions
+#### 📌 Dataset Overview
 
-**Key Analysis & KPIs**
+- 🏥 22,000 hospital admission records
+
+#### 📊 Key KPIs
+
 - Total Admissions
 - Total Revenue
 - Average Length of Stay (ALOS)
 - Bed Occupancy %
 - Readmission Rate %
 - Patient Satisfaction
+
+#### 🔍 Analysis
+
 - Department-wise revenue
-- Insurance coverage
+- Insurance coverage analysis
 - Mortality rates
 - Patient admission trends
+- Hospital operational performance
 
-**Technical Implementation**
-- Transformed and prepared healthcare data using Power Query.
-- Developed DAX measures to calculate operational and healthcare KPIs.
-- Evaluated revenue trends and department-level performance.
-- Built interactive reports to analyze admissions and operational metrics.
+#### ⚙️ Technical Work
 
-**Tech Stack**
-
-`Power BI` `DAX` `Power Query`
+- Cleaned and transformed data using Power Query.
+- Developed DAX measures for healthcare KPIs.
+- Analyzed revenue and department performance.
+- Created interactive reports for hospital operations.
 
 ---
 
-## Currently Learning & Improving
+## 📚 Currently Learning
 
-- Advanced SQL queries, joins, subqueries, and window functions
-- Python for data manipulation and exploratory data analysis
-- Excel for data cleaning, lookup functions, PivotTables, and reporting
-- Power BI data modeling, DAX, and dashboard development
-- Statistics and analytical problem-solving
-- Business metrics and data storytelling
+- 🗄️ SQL — Joins, Subqueries, CTEs & Window Functions
+- 🐍 Python — Data Manipulation & Exploratory Data Analysis
+- 📗 Excel — PivotTables, Lookup Functions & Data Cleaning
+- 📊 Power BI — DAX, Data Modeling & Dashboard Development
+- 📈 Statistics — Descriptive Statistics & Analytical Concepts
+- 💡 Business Analytics — KPI Analysis & Data Storytelling
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=talabathula-l-s-n-neeraj-kumar&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talabathula-l-s-neeraj-kumar&layout=compact&hide_border=true&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talabathula-l-s-n-neeraj-kumar&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/talabathula-l-s-n-neeraj-kumar/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/talabathula-l-s-n-neeraj-kumar">
-<img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -168,8 +178,8 @@ Analyzed hospital admission data to understand patient trends, revenue performan
 
 <div align="center">
 
-*“Without data, you're just another person with an opinion.”*
+💬 *"Data is fuel to drive the race of AI era."*
 
-**Always learning. Always analyzing. Always growing.**
+### 🚀 Always Learning • Always Analyzing • Always Growing
 
 </div>
